@@ -1,0 +1,14 @@
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\bin\Debug\netcoreapp2.1\MongoRedo.deps.json
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\bin\Debug\netcoreapp2.1\MongoRedo.runtimeconfig.json
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\bin\Debug\netcoreapp2.1\MongoRedo.runtimeconfig.dev.json
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\bin\Debug\netcoreapp2.1\MongoRedo.dll
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\obj\Debug\netcoreapp2.1\MongoRedo.csproj.CoreCompileInputs.cache
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\obj\Debug\netcoreapp2.1\MongoRedo.RazorAssemblyInfo.cache
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\obj\Debug\netcoreapp2.1\MongoRedo.RazorAssemblyInfo.cs
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\obj\Debug\netcoreapp2.1\MongoRedo.AssemblyInfoInputs.cache
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\obj\Debug\netcoreapp2.1\MongoRedo.AssemblyInfo.cs
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\obj\Debug\netcoreapp2.1\MongoRedo.RazorTargetAssemblyInfo.cache
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\bin\Debug\netcoreapp2.1\MongoRedo.pdb
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\obj\Debug\netcoreapp2.1\MongoRedo.csprojAssemblyReference.cache
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\obj\Debug\netcoreapp2.1\MongoRedo.dll
+C:\Users\Viktor.Jakovlev\Desktop\MongoRedo\MongoRedo\MongoRedo\obj\Debug\netcoreapp2.1\MongoRedo.pdb
